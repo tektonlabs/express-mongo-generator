@@ -30,7 +30,7 @@
     "express": "4.16.3",
     "helmet": "3.12.1",
     "http-errors": "1.6.3",
-    "mongoose": "5.0.17",
+    "mongoose": "5.7.5",
     "morgan": "1.9.0",
     "winston": "2.4.2",
     "winston-papertrail": "1.0.5"
